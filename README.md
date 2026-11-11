@@ -12,13 +12,4 @@
 
 <h3>🛠️ Tecnologias</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,nodejs,express,php,laravel,py,prisma,postgres,mysql,supabase,firebase,vercel,git&perline=6" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=claude&logoColor=D97757" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-
-</div>
+<img width="100%" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,nodejs,express,php,laravel,py,prisma,postgres,mysql,supabase,firebase,vercel,git&perline=9" />
