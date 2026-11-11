@@ -9,8 +9,6 @@
 
 <br />
 
-### `~/sobre-mim`
-
 ```ts
 const arthur = {
   nome: "Arthur Gabriel Borges",
@@ -20,8 +18,6 @@ const arthur = {
   abertoAParcerias: true, // bora construir algo junto? 🤝
 };
 ```
-
-### `~/stack`
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,php,laravel,py,mysql,postgres,prisma,supabase,firebase,vercel&theme=dark" alt="Stack" />
@@ -34,8 +30,6 @@ const arthur = {
   <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D97757" alt="Claude" />
   <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
 </p>
-
-### `~/contribuições`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurBorges002/ArthurBorges002/output/github-snake-dark.svg" />
