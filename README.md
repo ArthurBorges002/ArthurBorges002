@@ -31,12 +31,6 @@ const arthur = {
   <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurBorges002/ArthurBorges002/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurBorges002/ArthurBorges002/output/github-snake.svg" />
-  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/ArthurBorges002/ArthurBorges002/output/github-snake-dark.svg" />
-</picture>
-
 <br />
 
 <div align="center">
