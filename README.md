@@ -1,9 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Arthur+%F0%9F%91%8B;Desenvolvedor+Full-Stack;Web+%E2%80%A2+Mobile+%E2%80%A2+SaaS+%E2%80%A2+IA" alt="Typing SVG" />
+<h1>Arthur Gabriel Borges</h1>
+
+<p><b>Desenvolvedor Full-Stack</b> · Web · Mobile · SaaS · IA</p>
+
+<p>Desenvolvo sistemas completos, do banco de dados ao deploy,<br />com foco em produtos SaaS e integrações com IA.</p>
 
 <a href="mailto:borgesarthur2020@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Brasil-0D1117?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Brasil" />
 
 <br /><br />
 
@@ -18,8 +23,8 @@
 
 <br /><br />
 
-<sub><code>arthur@github:~$ exit</code></sub>
-&nbsp;
+<p>🤝 <b>Aberto a parcerias e novos projetos</b> — vamos construir algo juntos?</p>
+
 <img src="https://komarev.com/ghpvc/?username=ArthurBorges002&style=flat-square&color=38BDF8&label=visitas" alt="Visitas" />
 
 </div>
