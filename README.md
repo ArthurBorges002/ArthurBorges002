@@ -17,8 +17,6 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" />
   <img src="https://skillicons.dev/icons?i=php" height="40" />
   <img src="https://skillicons.dev/icons?i=py" height="40" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
   <img src="https://skillicons.dev/icons?i=react" height="40" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" />
@@ -29,13 +27,11 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="40" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" />
   <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
   <br/><br/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="40" />
